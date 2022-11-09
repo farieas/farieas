@@ -32,7 +32,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
-
+<div id="badges">
+ <img src="https://komarev.com/ghpvc/?username=farieas&style=flat-square&color=blue" alt=""/>
+ </div>
 <!---
 farieas/farieas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
